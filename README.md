@@ -7,7 +7,8 @@
 
 
 <samp>
-👋 Hi, I’m Franco
+
+ 👋 Hi, I’m Franco
 
 👀 I’m interested in teaching, traveling, and lifestyle
 
