@@ -14,9 +14,9 @@
 
 📫 How to reach me: fherrera@uarg.unpa.edu.ar
 
-😄 Pronouns: Betular
+⚡ Fun fact: La pastelería es una ciencia exacta! ¡Me encanta! 
 
-⚡ Fun fact: La pastelería es una ciencia exacta! ¡Me encanta!  ![image](https://github.com/fherreraprog/fherreraprog/assets/136825860/43110652-078b-4742-92b2-bd71b3f97e6e)
+<img src="https://github.com/fherreraprog/fherreraprog/assets/136825860/43110652-078b-4742-92b2-bd71b3f97e6e" alt="image" width="200" align="right" />
 
 
 <!---
