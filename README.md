@@ -1,4 +1,5 @@
--- 👋 Hi, I’m Franco
+👋 Hi, I’m Franco
+
 -👀 I’m interested in teaching, traveling, and lifestyle
 -🌱 I’m currently learning about AI
 -💞️ I’m looking to collaborate with different educational schools
