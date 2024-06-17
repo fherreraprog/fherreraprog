@@ -1,3 +1,9 @@
+<img width="1000" alt="image" src="https://github.com/fherreraprog/fherreraprog/assets/136825860/b3ae3a96-bd62-4ee6-bb0b-9a161e880978">
+
+
+
+
+
 👋 Hi, I’m Franco
 
 👀 I’m interested in teaching, traveling, and lifestyle
@@ -10,7 +16,8 @@
 
 😄 Pronouns: Betular
 
-⚡ Fun fact: La pastelería es una ciencia exacta! ¡Me encanta!
+⚡ Fun fact: La pastelería es una ciencia exacta! ¡Me encanta!  ![image](https://github.com/fherreraprog/fherreraprog/assets/136825860/43110652-078b-4742-92b2-bd71b3f97e6e)
+
 
 <!---
 fherreraprog/fherreraprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
