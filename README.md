@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: La pastelería es una ciencia exacta! ¡Me encanta! 
 
-<img src="https://github.com/fherreraprog/fherreraprog/assets/136825860/43110652-078b-4742-92b2-bd71b3f97e6e" alt="image" width="200" align="right" />
+<img src="https://github.com/fherreraprog/fherreraprog/assets/136825860/43110652-078b-4742-92b2-bd71b3f97e6e" alt="image" width="250" align="right" />
 
 
 <!---
